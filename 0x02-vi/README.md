@@ -1,0 +1,1 @@
+VIM or vi tasks for inserting, cutting, pasting, undoing, exiting, beginning the line, end of the line.
