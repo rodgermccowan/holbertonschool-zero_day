@@ -1,0 +1,1 @@
+EMACS commands to open, save, cutting, pasting, seraching, undoing and quitting
